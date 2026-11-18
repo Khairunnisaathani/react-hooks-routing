@@ -1,16 +1,50 @@
-# React + Vite
+React Hooks & Routing
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+About the Project
 
-Currently, two official plugins are available:
+This project is built using React to demonstrate React Hooks and page navigation using React Router. It includes three pages: Home, Tasks, and About.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Features
 
-## React Compiler
+- Home: Displays a welcome message and live clock using "useState" and "useEffect".
+- Tasks: Add and delete daily tasks using "useState".
+- About: Displays information about the project.
+- Navigation: Navigate between three pages using React Router.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Technologies Used
 
-## Expanding the Oxlint configuration
+- React
+- JavaScript
+- React Router
+- HTML
+- CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Screenshots
+
+Home Page
+
+"Home Page" (output/Home.png)
+
+Tasks Page
+
+"Tasks Page" (output/Tasks.png)
+
+About Page
+
+"About Page" (output/About.png)
+
+How to Run
+
+1. Clone this repository.
+2. Install dependencies:
+   npm install
+3. Start the development server:
+   npm run dev
+
+Learning Outcomes
+
+- Learned to use "useState" and "useEffect".
+- Learned to create multiple pages using React Router.
+- Practiced building interactive components.
+- Improved React development skills.
