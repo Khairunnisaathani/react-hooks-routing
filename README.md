@@ -20,19 +20,8 @@ Technologies Used
 - CSS
 - Vite
 
-Screenshots
 
-Home Page
 
-"Home Page" (output/Home.png)
-
-Tasks Page
-
-"Tasks Page" (output/Tasks.png)
-
-About Page
-
-"About Page" (output/About.png)
 
 How to Run
 
@@ -48,3 +37,11 @@ Learning Outcomes
 - Learned to create multiple pages using React Router.
 - Practiced building interactive components.
 - Improved React development skills.
+  
+##output
+
+ ![Home Page](output/Home.png)
+
+![Tasks Page](output/Task.png)
+
+![About Page](output/About.png)
