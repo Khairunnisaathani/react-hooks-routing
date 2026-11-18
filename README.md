@@ -42,6 +42,6 @@ Learning Outcomes
 
  ![Home Page](output/Home.png)
 
-![Tasks Page](output/Task.png)
+![Tasks Page](output/Tasks.png)
 
 ![About Page](output/About.png)
