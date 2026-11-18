@@ -1,0 +1,29 @@
+.app {
+  min-height: 100vh;
+}
+
+nav {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.page-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.tasks-page {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.tasks-page li button {
+  background: #e53935;
+}
+
+.tasks-page li button:hover {
+  background: #c62828;
+}
